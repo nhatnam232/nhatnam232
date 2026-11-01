@@ -53,11 +53,12 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatnam232&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-  <img src="https://streak-stats.demolab.com?user=nhatnam232&theme=tokyonight&hide_border=true&locale=en" height="165" alt="Commit streak" />
+  <img src="https://komarev.com/ghpvc/?username=nhatnam232&style=flat-square&color=5865F2" alt="Profile views" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nhatnam232&bg_color=0d1117&color=7C8DFF&line=5865F2&point=FF7B72&area=true&hide_border=true" alt="Activity graph" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nhatnam232&theme=tokyonight&hide_border=true&locale=en" height="165" alt="Commit streak" />
+</p>
 
 ## 📮 Reach me
 
