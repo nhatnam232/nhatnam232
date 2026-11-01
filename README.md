@@ -1,8 +1,10 @@
 <h1 align="center">Hey, I'm Nam 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C8DFF&center=true&vCenter=true&width=640&lines=Full-stack+developer+%F0%9F%87%BB%F0%9F%87%B3;TypeScript+first%2C+Go+%26+Rust+curious;Web+apps+%2F+browser+extensions+%2F+self-hosted+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C8DFF&center=true&vCenter=true&width=640&lines=Self-taught+full-stack+developer+%F0%9F%87%BB%F0%9F%87%B3;TypeScript+first%2C+Go+%26+Rust+curious;Web+apps+%2F+browser+extensions+%2F+self-hosted+tools" alt="Typing SVG" />
 </p>
+
+<p align="center">📍 Vietnam · building & shipping daily</p>
 
 ## 🛠️ Tech I use
 
@@ -35,6 +37,18 @@
 | 🌙 | **[TsukiAnime](https://github.com/nhatnam232/animevn)** | Vietsub anime streaming site built on Next.js |
 
 > Plus a self-hosted FastAPI + React automation panel and assorted tooling in private repos.
+
+## 🌱 Now
+
+- 🦀 learning **Rust** — building voice tooling
+
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhatnam232/nhatnam232/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhatnam232/nhatnam232/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/nhatnam232/nhatnam232/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
 
 ## 📊 GitHub stats
 
