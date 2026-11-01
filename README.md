@@ -34,7 +34,7 @@
 | 🎌 | **[Anime Wiki](https://github.com/nhatnam232/tsuki-wiki)** | Modern anime wiki — React + Vite + Express, AniList/Jikan — [live demo](https://animewiki.vercel.app) |
 | 💼 | **[BioPlatform](https://github.com/nhatnam232/linkforge)** | Multi-user link-in-bio platform with presence, audio & animated effects |
 | 🛡️ | **[Ethereals N ADS](https://github.com/nhatnam232/etherblock)** | Privacy-first ad blocker — Chrome MV3 + Firefox MV3 from one codebase |
-| 🤖 | **[Selora](https://github.com/nhatnam232/discord-presence-panel)** | Self-hosted Discord presence & automation hub — FastAPI + React + Postgres |
+| 🔒 | **Selora** | Discord presence & automation hub — FastAPI + React · flagship, coming soon |
 
 > More experiments live in private repos.
 
