@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Nam 👋</h1>
+<h1 align="center">Hey, I'm JADES 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C8DFF&center=true&vCenter=true&width=640&lines=Self-taught+full-stack+developer+%F0%9F%87%BB%F0%9F%87%B3;TypeScript+first%2C+Go+%26+Rust+curious;Web+apps+%2F+browser+extensions+%2F+self-hosted+tools" alt="Typing SVG" />
