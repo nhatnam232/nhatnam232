@@ -64,6 +64,7 @@
 
 <p>
   <a href="mailto:kobitnx223@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discord.com/users/1281569606980341762"><img src="https://img.shields.io/badge/Discord-__nhtw.naamm__-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/nhatnam232"><img src="https://img.shields.io/badge/GitHub-nhatnam232-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
