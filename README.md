@@ -30,11 +30,11 @@
 
 | | Project | What it is |
 |---|---|---|
-| 🎸 | **[GuitarTribe](https://github.com/nhatnam232/gt)** | Guitar spec-comparison engine — Next.js 15 + TypeScript |
-| 🎌 | **[Anime Wiki](https://github.com/nhatnam232/anm)** | Modern anime wiki — React + Vite + Express, AniList/Jikan — [live demo](https://animewiki.vercel.app) |
+| 🎸 | **[GuitarTribe](https://github.com/nhatnam232/guitar-tribe)** | Guitar spec-comparison engine — Next.js 15 + TypeScript |
+| 🎌 | **[Anime Wiki](https://github.com/nhatnam232/anime-wiki)** | Modern anime wiki — React + Vite + Express, AniList/Jikan — [live demo](https://animewiki.vercel.app) |
 | 💼 | **[BioPlatform](https://github.com/nhatnam232/bio-platform)** | Multi-user link-in-bio platform with presence, audio & animated effects |
 | 🛡️ | **[Ethereals N ADS](https://github.com/nhatnam232/ads-block-ex)** | Privacy-first ad blocker — Chrome MV3 + Firefox MV3 from one codebase |
-| 🌙 | **[TsukiAnime](https://github.com/nhatnam232/animevn)** | Vietsub anime streaming site built on Next.js |
+| 🌙 | **[TsukiAnime](https://github.com/nhatnam232/tsuki-anime)** | Vietsub anime streaming site built on Next.js |
 
 > Plus a self-hosted FastAPI + React automation panel and assorted tooling in private repos.
 
