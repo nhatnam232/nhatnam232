@@ -45,7 +45,7 @@
 ## 📊 Metrics & activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nhatnam232/nhatnam232/main/metrics.svg" alt="Isometric metrics" />
+  <img src="https://raw.githubusercontent.com/nhatnam232/nhatnam232/main/github-metrics.svg" alt="Isometric metrics" />
 </p>
 
 <p align="center">
