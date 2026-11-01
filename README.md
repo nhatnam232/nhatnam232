@@ -31,7 +31,7 @@
 | | Project | What it is |
 |---|---|---|
 | 🎸 | **[GuitarTribe](https://github.com/nhatnam232/fretwise)** | Guitar spec-comparison engine — Next.js 15 + TypeScript |
-| 🎌 | **[Anime Wiki](https://github.com/nhatnam232/tsuki-wiki)** | Modern anime wiki — React + Vite + Express, AniList/Jikan — [live demo](https://animewiki.vercel.app) |
+| 🎌 | **[Anime Wiki](https://github.com/nhatnam232/tsuki-wiki)** | Modern anime wiki — React + Vite + Express, AniList/Jikan — [live demo](https://animewiki.eu.cc) |
 | 💼 | **[BioPlatform](https://github.com/nhatnam232/linkforge)** | Multi-user link-in-bio platform with presence, audio & animated effects |
 | 🛡️ | **[Ethereals N ADS](https://github.com/nhatnam232/etherblock)** | Privacy-first ad blocker — Chrome MV3 + Firefox MV3 from one codebase |
 | 🔒 | **Selora** | Discord presence & automation hub — FastAPI + React · flagship, coming soon |
