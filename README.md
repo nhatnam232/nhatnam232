@@ -1,10 +1,10 @@
-<h1 align="center">Hey, I'm JADES 👋</h1>
+<div align="center">
+  <img src="assets/banner.svg" alt="JADES — full-stack developer" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C8DFF&center=true&vCenter=true&width=640&lines=Self-taught+full-stack+developer+%F0%9F%87%BB%F0%9F%87%B3;TypeScript+first%2C+Go+%26+Rust+curious;Web+apps+%2F+browser+extensions+%2F+self-hosted+tools" alt="Typing SVG" />
+  <a href="https://komarev.com/ghpvc/?username=nhatnam232&style=flat-square&color=5865F2"><img src="https://komarev.com/ghpvc/?username=nhatnam232&style=flat-square&color=5865F2" alt="Profile views" /></a>
 </p>
-
-<p align="center">📍 Vietnam · building & shipping daily</p>
 
 ## 🛠️ Tech I use
 
@@ -42,6 +42,16 @@
 
 - 🦀 learning **Rust** — building voice tooling
 
+## 📊 Metrics & activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nhatnam232/nhatnam232/main/metrics.svg" alt="Isometric metrics" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nhatnam232&theme=tokyonight&hide_border=true&locale=en" height="165" alt="Commit streak" />
+</p>
+
 ## 🐍 Contribution snake
 
 <picture>
@@ -49,16 +59,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhatnam232/nhatnam232/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/nhatnam232/nhatnam232/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </picture>
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nhatnam232&style=flat-square&color=5865F2" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nhatnam232&theme=tokyonight&hide_border=true&locale=en" height="165" alt="Commit streak" />
-</p>
 
 ## 📮 Reach me
 
